@@ -50,7 +50,7 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 <details>
 <summary>:page_with_curl: My Work</summary>
   
-- [Automated shelf](https://github.com/Nuddel69/SmartSkap)
+- [Automated shelf](https://github.com/Nuddel69/SmartSkap) (Collaboration)
 - [Bubblewrap Discord bot](https://github.com/Nuddel69/DiscordPop)
 - [Solids of Revolution](https://github.com/Nuddel69/Solids-of-revolution)
 - [Rotational matrix-based Tank](https://github.com/Nuddel69/Fire)
