@@ -65,91 +65,91 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 <img 
      align="left" 
      alt="Vim" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Visual Studio Code" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Visual Studio" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Git" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Rapsberry Pi" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Python" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="C" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="C++" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Java" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Arduino" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Latex" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Linux" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Lua" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/lua/lua-original.svg" 
      style="padding-right:10px;" 
 />
@@ -157,49 +157,49 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 <img 
      align="left" 
      alt="Postgresql" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Docker" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="HTML5" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="CSS" 
-     width="26px" 
+     width="56px" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="Javascript" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="React" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" 
      style="padding-right:10px;" 
 />
 <img 
      align="left" 
      alt="ESLint" 
-     width="26px" 
+     width="56px" 
      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original.svg" 
      style="padding-right:10px;" 
 />
