@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 
 ## ❤️ Firstly, a little bit about yours truly
-- 🔭 I’m currently working _on [Automated Shelf](https://github.com/Nuddel69/SmartSkap)_
+- 🔭 I’m currently working _on [Communications](https://github.com/Nuddel69/Communications)_
 - 🌱 I’m currently learning _full-stack Ruby on Rails_
 - 🤔 I’m looking for help with _social interaction_
 - 💬 Ask me about _cephalopods_!
@@ -49,7 +49,8 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 
 <details>
 <summary>:page_with_curl: My Work</summary>
-  
+ 
+- [Communications](https://github.com/Nuddel69/Communications)
 - [Automated shelf](https://github.com/Nuddel69/SmartSkap) (Collaboration)
 - [Bubblewrap Discord bot](https://github.com/Nuddel69/DiscordPop)
 - [Solids of Revolution](https://github.com/Nuddel69/Solids-of-revolution)
