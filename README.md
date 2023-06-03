@@ -61,150 +61,32 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
   
 </details>
   
-## Languages and Tools:
-<div style="display: inline_block"><br>
-<img 
-     align="left" 
-     alt="Vim" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Visual Studio Code" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Visual Studio" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Git" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Rapsberry Pi" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Python" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="C" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="C++" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Java" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Arduino" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Latex" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Linux" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Lua" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/lua/lua-original.svg" 
-     style="padding-right:10px;" 
-/>
-
-<img 
-     align="left" 
-     alt="Postgresql" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Docker" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="HTML5" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="CSS" 
-     width="56px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="Javascript" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="React" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" 
-     style="padding-right:10px;" 
-/>
-<img 
-     align="left" 
-     alt="ESLint" 
-     width="56px" 
-     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original.svg" 
-     style="padding-right:10px;" 
-/>
+## What I use:
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nuddel69)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nuddel69)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/nuddel69)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nuddel69)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/nuddel69)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/nuddel69)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/nuddel69)
   
+### Technologies & Frameworks
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/nuddel69)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/nuddel69)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/nuddel69)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/nuddel69)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/nuddel69)
+[![LaTex](https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex)](https://github.com/nuddel69)
+[![Raspberry Pi](https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberrypi)](https://github.com/nuddel69)
+[![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/nuddel69)
+[![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=STMicroelectronics)](https://github.com/nuddel69)
+  
+### Tools
+[![Neovim](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://github.com/nuddel69)
+[![Visual Studio](https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio)](https://github.com/nuddel69)
+[![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/nuddel69)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/nuddel69)
   
 <br />
 <br />
