@@ -98,4 +98,4 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 <br />
 <br />
   
-![Snake animation](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nuddel69/Nuddel69/blob/output/github-contribution-grid-snake-dark.svg)
