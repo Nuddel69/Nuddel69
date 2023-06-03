@@ -62,6 +62,7 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 </details>
   
 ## What I use:
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nuddel69)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nuddel69)
@@ -70,7 +71,7 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/nuddel69)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/nuddel69)
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/nuddel69)
-  
+
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/nuddel69)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/nuddel69)
@@ -81,6 +82,12 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 [![Raspberry Pi](https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberrypi)](https://github.com/nuddel69)
 [![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/nuddel69)
 [![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=STMicroelectronics)](https://github.com/nuddel69)
+
+### Data Science
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/nuddel69)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/nuddel69)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/nuddel69)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/nuddel69)
   
 ### Tools
 [![Neovim](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://github.com/nuddel69)
