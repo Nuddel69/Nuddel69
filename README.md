@@ -22,7 +22,7 @@ Hi there! I'm Nuddel, an eighteen year old developer from Norway!
 - 🌱 I’m currently learning _full-stack Ruby on Rails_
 - 🤔 I’m looking for help with _social interaction_
 - 💬 Ask me about _cephalopods_!
-- 📫 How to reach me: _Nuddel@8864 on Discord_
+- 📫 How to reach me: _nuddel on Discord_
 - ⚡ Fun fact: _I've written fully functional programs in Cow!_
 
 <br>
