@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Nuddel, an eighteen year old developer from Norway!
+Hi there! I'm Nuddel, an nineteen year old developer from Norway!
 
 ## ❤️ Firstly, a little bit about yours truly
 - 🔭 I’m currently working _on [Communications](https://github.com/Nuddel69/Communications)_
