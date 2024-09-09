@@ -66,10 +66,8 @@ Hi there! I'm Nuddel, a nineteen year old developer from Norway!
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nuddel69)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nuddel69)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/nuddel69)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nuddel69)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/nuddel69)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/nuddel69)
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/nuddel69)
 
 ### Technologies & Frameworks
@@ -84,15 +82,12 @@ Hi there! I'm Nuddel, a nineteen year old developer from Norway!
 [![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=STMicroelectronics)](https://github.com/nuddel69)
 
 ### Data Science
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/nuddel69)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/nuddel69)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/nuddel69)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/nuddel69)
   
 ### Tools
 [![Neovim](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://github.com/nuddel69)
-[![Visual Studio](https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio)](https://github.com/nuddel69)
-[![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/nuddel69)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/nuddel69)
   
 <br />
