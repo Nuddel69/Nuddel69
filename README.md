@@ -1,5 +1,3 @@
-# Greetings, traveler! 👋
-
 <!--
 **Nuddel69/Nuddel69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,21 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Nuddel, a nineteen year old developer from Norway!
+# Hi there!
 
-## ❤️ Firstly, a little bit about yours truly
-- 🔭 I’m currently working _on [Communications](https://github.com/Nuddel69/Communications)_
-- 🌱 I’m currently learning _full-stack Ruby on Rails_
-- 🤔 I’m looking for help with _social interaction_
-- 💬 Ask me about _cephalopods_!
-- 📫 How to reach me: _nuddel on Discord_
-- ⚡ Fun fact: _I've written fully functional programs in Cow!_
-
-<br>
+## About Me
 
 - 🧑‍🏫 I love learning new programming languages, regardless of their use! 
 - 🔬 I specialize in C and low-level, embedded programming
-- 🖥️ Both web-development and esolangs tend to catch my interest!
+- 🖥️ Esolangs tend to catch my interest!
 - 📚 Give me a book and you can keep me on mute for hours
 - 🪸 I love the deep sea!
 
@@ -50,28 +40,25 @@ Hi there! I'm Nuddel, a nineteen year old developer from Norway!
 <details>
 <summary>:page_with_curl: My Work</summary>
  
-- [Communications](https://github.com/Nuddel69/Communications) [WIP]
-- [Automated shelf](https://github.com/Nuddel69/SmartSkap) (Collaboration)
+- [Communications](https://github.com/Nuddel69/Communications) [Stale]
+- [Automated shelf](https://github.com/Nuddel69/SmartSkap) (Stale)
 - [Bubblewrap Discord bot](https://github.com/Nuddel69/DiscordPop)
 - [Solids of Revolution](https://github.com/Nuddel69/Solids-of-revolution)
 - [Rotational matrix-based Tank](https://github.com/Nuddel69/Fire)
 - [Neovim Configuration](https://github.com/Nuddel69/NvimConfig)
 - [Simple Pong](https://github.com/Nuddel69/Pong)
-- [Nutils - C utilities](https://github.com/Nuddel69/Nutils) [WIP]
+- [Nutils - C utilities](https://github.com/Nuddel69/Nutils) [Stale]
   
 </details>
   
 ## What I use:
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nuddel69)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nuddel69)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nuddel69)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/nuddel69)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nuddel69)
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/nuddel69)
 
 ### Technologies & Frameworks
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/nuddel69)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/nuddel69)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/nuddel69)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/nuddel69)
@@ -80,11 +67,6 @@ Hi there! I'm Nuddel, a nineteen year old developer from Norway!
 [![Raspberry Pi](https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberrypi)](https://github.com/nuddel69)
 [![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/nuddel69)
 [![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=STMicroelectronics)](https://github.com/nuddel69)
-
-### Data Science
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/nuddel69)
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/nuddel69)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/nuddel69)
   
 ### Tools
 [![Neovim](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://github.com/nuddel69)
